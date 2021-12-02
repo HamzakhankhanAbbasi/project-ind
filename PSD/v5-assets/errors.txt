@@ -1,0 +1,7 @@
+[4/15/2021, 8:33:35 PM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[4/15/2021, 8:33:35 PM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[4/15/2021, 8:33:35 PM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[4/15/2021, 8:33:35 PM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[4/15/2021, 8:33:35 PM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[4/15/2021, 8:33:35 PM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[4/15/2021, 8:33:35 PM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
